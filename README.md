@@ -22,7 +22,7 @@ isos, etc, etc.
 
 ##Referencias
 
-*[1] http://opencv.org/
-*[2] http://docs.opencv.org/doc/tutorials/imgproc/histograms/template_matching/template_matching.html
-*[3] http://www.semicomplete.com/projects/xdotool/
-*[4] http://www.swi-prolog.org/
+* [1] http://opencv.org/
+* [2] http://docs.opencv.org/doc/tutorials/imgproc/histograms/template_matching/template_matching.html
+* [3] http://www.semicomplete.com/projects/xdotool/
+* [4] http://www.swi-prolog.org/
