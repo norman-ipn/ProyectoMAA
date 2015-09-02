@@ -14,9 +14,9 @@ Interactuar con el juego mediante la herramienta xdotool[3], que permite mandar
 clics a las ventanas. Una vez que OpenCV determine la posición de los botones y
 casillas, xdotool podrá hacer clic en ellas. 
 
-Codificar las reglas del juego en Prolog[4] para poder realizar consultar
-sobre la mejor estrategia. Aprovechando el motor de búsqueda de prolog
-se prodran resolver preguntas respecto a qué ataque utilizar o a qué enegimo 
+Codificar las reglas del juego en Prolog[4] para consulta la mejor estrategia.
+Aprovechando el motor de búsqueda de Prolog
+se prodrán resolver preguntas respecto a qué ataque utilizar o a qué enemigo 
 atacar. Requiere codidifcar todos los ataques, potenciadores, despotenciadores, 
 isos, etc, etc.
 
